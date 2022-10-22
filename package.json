@@ -1,0 +1,21 @@
+{
+  "name": "tenebris",
+  "displayName": "tenebris",
+  "description": "Tenebris is the new black",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tenebris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tenebris-color-theme.json"
+      }
+    ]
+  }
+}

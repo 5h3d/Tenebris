@@ -3,6 +3,19 @@
   "displayName": "tenebris",
   "description": "Tenebris is the new black",
   "version": "0.0.1",
+  "publisher": "devShed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5h3d/Tenebris"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tenebris",
+    "devShed theme",
+    "devshed",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
